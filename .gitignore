@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Redis source and binaries
+redis-6.0.10/
+redis-6.0.10.tar.gz
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
